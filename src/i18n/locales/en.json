@@ -1,0 +1,37 @@
+{
+    "COMMON": {
+        "LOGIN": "Login",
+        "FORGOT_PASSWORD": "Forgot password ?",
+        "FORGOT_PASSWORD_TITLE": "No worries, we'll send you reset instructions",
+        "RESET_PASSWORD": "Reset password",
+        "GO_BACK": "Back to Log In",
+        "REGISTRATION": "Sign Up",
+        "SIGN_UP": "Sign Up",
+        "VERIFICATION_CODE": "Verification code",
+        "ENTER_CODE": "Enter code",
+        "SET_NEW_PASSWORD": "Set new password",
+        "CONTINUE": "Continue",
+        "SUBMIT": "Submit",
+        "SETTINGS": "Settings",
+        "SAVE": "Save",
+        "UPDATE_INFORMATION": "Update Information",
+        "UPDATE_PASSWORD": "Update Password",
+        "CATEGORIES" : "Categories",
+        "CATEGORY": "Category",
+        "INFORMATION": "Information",
+        "STOP_LIST" : "Stop list",
+        "CATEGORIES_NAME": "Name",
+        "ACTION": "Action",
+        "ADD_CATEGORY": "Add Category",
+        "EDIT":"Edit",
+        "YES" : "Yes",
+        "NO": "No",
+        "ADD": "Add",
+        "CREATE": "Create",
+        "CLOSE": "Close",
+        "STOP_CATEGORY": "Are you sure stop this category",
+        "ACTIVE_CATEGORY": "Are you sure active this category",
+        "NOT_FOUND":"Not Found"
+        
+    }
+}
